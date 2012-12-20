@@ -29,8 +29,7 @@
                 <!-- /.logo -->
                 <form action="Contacts.php" id="search-form">
                     <fieldset>
-                        <input type="text" class="text" />
-                        <input type="submit" value="Search" class="submit" />
+                        <input type="text" class="text" /><input type="submit" value="Search" class="submit" />
                     </fieldset>
                 </form>
             </div>
@@ -112,9 +111,6 @@
                             <p> If you have anything to say, please don't hesitate to send us a message below. </p>
                             <p><span style="color: #ff6600">*</span> Indicating these fields are required.</p>
 
-
-
-
                             <form action="process_contacts.php" id="contacts-form" method="post">
                                 <fieldset>
                                     <div class="col-1">
@@ -148,6 +144,10 @@
                                     </div>
                                 </fieldset>
                             </form>
+                        </div>
+                        <div class="section">
+                            <h3>Our Location</h3>
+
                         </div>
                     </div>
                 </div>

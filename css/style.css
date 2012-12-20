@@ -643,3 +643,11 @@ a.current {
     word-wrap: break-word;
 	margin-bottom: 15px;
 }
+
+.stemcom-orange {
+    color: #FF6600;
+}
+
+.stemcom-blue {
+    color: #006699;
+}
