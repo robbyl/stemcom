@@ -147,7 +147,7 @@
                         </div>
                         <div class="section">
                             <h3>Our Location</h3>
-
+                            <iframe width="620" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;ll=-6.728414,39.215505&amp;spn=0.007458,0.01502&amp;z=16&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;t=m&amp;ll=-6.728414,39.215505&amp;spn=0.007458,0.01502&amp;z=16&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
                         </div>
                     </div>
                 </div>
