@@ -5,7 +5,7 @@ $email = $_POST['email'];
 $fax = $_POST['fax'];
 $message = $_POST['message'];
 
-$to = "robbyl@ovi.com";
+$to = "info@stemcom.co.tz";
 $subject = "STEMCOM MESSAGE FROM " . $fullname;
 
 // To send HTML mail, the Content-type header must be set
@@ -14,7 +14,7 @@ $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
 // Additional headers
 //$headers .= 'admin <admin@localhost.com>' . "\r\n";
-$headers .= 'From: <admin@localhost.com>' . "\r\n";
+$headers .= 'From: <admin@stemcom.co.tz>' . "\r\n";
 
 
 
