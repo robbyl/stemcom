@@ -47,7 +47,7 @@
                             <li><a href="Products.html" >Our Products</a></li>
                             <li><a href="Divisions.html">Our Divisions</a></li>
                             <li><a href="Customers.html">Our Clients/Customers </a></li>
-                            <li><a href="http://mail.stemcom.co.tz">WebMail</a></li>
+                            <li><a href="http://mail.stemcom.co.tz">Web Mail</a></li>
                             <li><a href="Contacts.php" class="current">Contacts</a></li>
                         </ul>
                         <!-- /.nav -->
@@ -59,7 +59,7 @@
                                     <li><a href="DomainRegistration">Domain Registration & Hosting</a></li>
                                     <li><a href="AdvancedInfoSecurity.html">Advanced Info Security Systems</a></li>
                                     <li><a href="CloudComputing.html">Cloud Computing</a></li>
-                                    <li><a href="WebsiteDesign.html">WebSite Design and Development</a></li>
+                                    <li><a href="Web SiteDesign.html">Web Site Design and Development</a></li>
                                     <li><a href="OperationsConsulting">Operations Consulting</a></li>
                                     <li><a href="AllianceTechnology.html">Alliance Technology Partner</a></li>
                                     <li><a href="ICTTechnicalTraining.html">ICT Technical Training</a></li>
@@ -155,7 +155,7 @@
             <!-- footer -->
             <div id="footer">
                 <div class="wrapper">
-                    <div class="fleft">stemcom technologies&copy; 2010&nbsp; &nbsp; <a href="Privacy.html">Privacy Policy</a></div>
+                    <div class="fleft">stemcom technologies &copy; 2010&nbsp; &nbsp; <a href="Privacy.html">Privacy Policy</a></div>
                     <div class="fright">
                         <!-- .nav -->
                         <ul class="nav">
@@ -169,7 +169,7 @@
                             <li><a href="Contacts.php" class="current">Contacts</a></li>
                         </ul>
                         <!-- /.nav -->
-                        <div class="alignright">stemcom technologies Tanzania Limited. Uhuru Road, Opposite Keys Hotel near Mnazi Mmoja.</div>
+                        <div class="alignright">stemcom technologies Tanzania Limited. Stanford House along New Bagamoyo Road/Hekima Street, Plot No: 2058 Block D.</div>
                     </div>
                 </div>
             </div>
