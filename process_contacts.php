@@ -6,7 +6,7 @@ $fax = $_POST['fax'];
 $message = $_POST['message'];
 
 $to = "info@stemcom.co.tz";
-$subject = "STEMCOM MESSAGE FROM " . $fullname;
+$subject = "Stemcom message from " . $fullname;
 
 // To send HTML mail, the Content-type header must be set
 $headers  = 'MIME-Version: 1.0' . "\r\n";
@@ -14,7 +14,7 @@ $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
 // Additional headers
 //$headers .= 'admin <admin@localhost.com>' . "\r\n";
-$headers .= 'From: <admin@stemcom.co.tz>' . "\r\n";
+$headers .= 'From: <info@stemcom.co.tz>' . "\r\n";
 
 
 
