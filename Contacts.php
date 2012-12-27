@@ -78,16 +78,22 @@
                                     <dt>Company name:<br />
                                         Date of incorporation:<br />
                                         Business address.</dt>
+                                    <dd><span>Landline: </span></dd>
+                                    <dd>&nbsp;</dd>
                                     <dd><span>Hotline: </span></dd>
                                     <dd><span>&nbsp;</span></dd>
+                                    <dd>&nbsp;</dd>
                                     <dd class="alt">E-mail: </dd>
                                 </dl>
                                 <dl class="address last">
                                     <p><strong><span style="color: #ff6600">STEMCOM</span> <span style="color: #006699">TECHNOLOGIES</span></strong><br />
                                         11<sup>th</sup> August, 2010,<br />
                                         P.O.Box 13490, Dar es salaam.</p>
+                                    <dd><span>+255 222 617 127</span></dd>
+                                    <dd>&nbsp;</dd>
                                     <dd><span>+255 653 191 050</span></dd>
                                     <dd><span>+255 784 342 700</span></dd>
+                                    <dd>&nbsp;</dd>
                                     <dd><span><strong><a href="mailto:info@stemcom.co.tz">info@stemcom.co.tz</a></strong></span></dd>
                                 </dl>
                             </div>
